@@ -13,20 +13,18 @@
         .box {
             font-family: "Roboto";
             font-style: normal;
-            background-color: blue;
         }
 
-        .txts {
+        .content {
             width: auto;
             display: flex;
             align-items: center;
             letter-spacing: 0.15em;
             color: #000000;
-            background-color: crimson;
         }
 
         span {
-            position: absolute;
+
             width: 170px;
             height: 25px;
             left: 40px;
@@ -40,58 +38,40 @@
         }
 
         img {
-            position: relative;
+            align-items: center;
             max-width: 50%;
             max-height: 100%;
-            left: 55px;
-            top: 185px;
         }
 
         h1 {
-            position: absolute;
-            height: 168px;
-            left: 700px;
-            top: 185px;
+            text-align: left;
             font-weight: 500;
             font-size: 72px;
-            line-height: 84px;
         }
 
         p {
-            position: absolute;
-            height: 126px;
-            left: 700px;
-            top: 418px;
+            text-align: left;
             font-weight: 300;
             font-size: 36px;
             line-height: 42px;
         }
 
         input {
-            position: absolute;
             width: 330px;
             height: 123px;
-            left: 700px;
-            top: 609px;
             background: #503F3F;
             border-radius: 10px;
             font-weight: 500;
             font-size: 18px;
             line-height: 21px;
             text-align: center;
-            align-items: center;
             letter-spacing: 0.2em;
             color: #FFFFFF;
         }
 
         footer {
-            position: absolute;
-            height: 21px;
-            left: 520px;
-            top: 980px;
-            font-weight: 500;
-            font-size: 18px;
-            line-height: 21px;
+            text-align: center;
+            font-size: 16px;
         }
     </style>
 
@@ -101,17 +81,19 @@
     <span>404 not found</span>
 
     <div class=box>
-        <div class="txts">
+
+        <div class="content">
+
+            <img src="Scarecrow.png" alt="Sorry!">
             <h1>I have bad news for you...</h1>
             <p>The page you are looking for might be removed or is temporarily unavailable.</p>
-            <footer>RAC@devchallenges.io</footer>
+
         </div>
 
         <input type="button" onclick="location.href='404_page.html'" value="BACK TO HOMEPAGE">
-
-        <img src="Scarecrow.png" alt="Sorry!">
     </div>
 
+    <footer>RAC@devchallenges.io</footer>
 </body>
 
 </html>
