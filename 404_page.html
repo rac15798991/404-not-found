@@ -10,21 +10,22 @@
     <title>404 error</title>
 
     <style>
-        .box {
+        .content {
             font-family: "Roboto";
             font-style: normal;
-        }
-
-        .content {
             width: auto;
+            height: auto;
             display: flex;
             align-items: center;
             letter-spacing: 0.15em;
             color: #000000;
         }
 
-        span {
+        .info {
+            display: block;
+        }
 
+        span {
             width: 170px;
             height: 25px;
             left: 40px;
@@ -70,6 +71,7 @@
         }
 
         footer {
+            padding-top: 20px;
             text-align: center;
             font-size: 16px;
         }
@@ -80,17 +82,17 @@
 <body>
     <span>404 not found</span>
 
-    <div class=box>
+    <div class="content">
 
-        <div class="content">
+        <img src="Scarecrow.png" alt="Sorry!">
 
-            <img src="Scarecrow.png" alt="Sorry!">
+        <div class="info">
             <h1>I have bad news for you...</h1>
             <p>The page you are looking for might be removed or is temporarily unavailable.</p>
+            <input type="button" onclick="location.href='404_page.html'" value="BACK TO HOMEPAGE">
 
         </div>
 
-        <input type="button" onclick="location.href='404_page.html'" value="BACK TO HOMEPAGE">
     </div>
 
     <footer>RAC@devchallenges.io</footer>
