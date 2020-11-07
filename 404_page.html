@@ -10,11 +10,16 @@
     <title>404 error</title>
 
     <style>
+        @media screen and (max-width: 600px) {
+            .content {
+                flex-flow: column;
+            }
+        }
+
         .content {
             font-family: "Roboto", sans-serif;
             font-style: normal;
             display: flex;
-
             letter-spacing: 0.15em;
             padding-top: 5%;
             color: #000000;
@@ -22,6 +27,7 @@
 
         .info {
             display: block;
+            text-align: center;
         }
 
         span {
@@ -35,18 +41,17 @@
         }
 
         img {
+            align-self: center;
             max-width: 50%;
             max-height: 100%;
         }
 
         h1 {
-            text-align: left;
             font-weight: 500;
             font-size: 4em;
         }
 
         p {
-            text-align: left;
             font-weight: 300;
             font-size: 2em;
         }
