@@ -10,13 +10,16 @@
     <title>404 error</title>
 
     <style>
+        @media screen and (max-width: 600px) {
+            .content {
+                flex-flow: column;
+            }
+        }
+
         .content {
             font-family: "Roboto", sans-serif;
             font-style: normal;
-            width: auto;
-            height: auto;
             display: flex;
-            align-items: center;
             letter-spacing: 0.15em;
             padding-top: 5%;
             color: #000000;
@@ -24,46 +27,42 @@
 
         .info {
             display: block;
+            text-align: center;
         }
 
         span {
             font-family: "Roboto", sans-serif;
             font-style: normal;
-            font-size: 1.5em;
+            font-size: 1.2em;
             font-weight: normal;
-            line-height: 25px;
             letter-spacing: 0.15em;
             text-transform: uppercase;
             color: #000000;
         }
 
         img {
-            align-items: center;
+            align-self: center;
             max-width: 50%;
             max-height: 100%;
         }
 
         h1 {
-            text-align: left;
             font-weight: 500;
-            font-size: 72px;
+            font-size: 4em;
         }
 
         p {
-            text-align: left;
             font-weight: 300;
-            font-size: 36px;
-            line-height: 42px;
+            font-size: 2em;
         }
 
         input {
-            width: 330px;
-            height: 123px;
+            width: 18em;
+            height: 6em;
             background: #503F3F;
             border-radius: 10px;
             font-weight: 500;
-            font-size: 18px;
-            line-height: 21px;
+            font-size: 1em;
             text-align: center;
             letter-spacing: 0.2em;
             color: #FFFFFF;
@@ -72,7 +71,7 @@
         footer {
             padding-top: 10em;
             text-align: center;
-            font-size: 14px;
+            font-size: 1em;
         }
     </style>
 
