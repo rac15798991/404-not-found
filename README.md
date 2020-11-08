@@ -23,7 +23,8 @@
 
 ## Overview
 
-This is a challenge from:
+This is a challenge from devchallenges.io:
+    <span> | </span>
      <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
