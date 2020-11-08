@@ -33,12 +33,7 @@ This is a challenge from devchallenges.io:
     The results I've obtained can be seen in the screenshots below:
 
 ![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Laptop_screenshot.png)
-
-<span>
-
 ![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Responsive_screenshot.png)
-
-</span>
 
 
 
