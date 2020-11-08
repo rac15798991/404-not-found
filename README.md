@@ -58,4 +58,3 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@rac15798991](https://{github.com/rac15798991})
 - email: rac15798991@gmail.com
-
