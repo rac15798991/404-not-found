@@ -32,16 +32,12 @@ This is a challenge from devchallenges.io:
     The goal is creating a '404 error' web page, with responsiveness for mobile devices.
     The results I've obtained can be seen in the screenshots below:
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Laptop_screenshot.png)
+
+![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Responsive_screenshot.png)
 
 
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project was all about constructing a page with html and css, working with a css media query and adjusting elements on the page. Links to useful articles can be found on section before end.
 
 ### Built With
 
@@ -53,11 +49,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
+- [Using CSS/HTML to Make a Responsive Website in 3 Easy Steps](https://dzone.com/articles/using-csshtml-make-responsive)
+- [HTML Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp)
+- [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
