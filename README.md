@@ -34,7 +34,12 @@ This is a challenge from devchallenges.io:
 
 ![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Laptop_screenshot.png)
 
+<span>
+
 ![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Responsive_screenshot.png)
+
+</span>
+
 
 
 This project was all about constructing a page with html and css, working with a css media query and adjusting elements on the page. Links to useful articles can be found on section before end.
