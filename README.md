@@ -32,9 +32,8 @@ This is a challenge from devchallenges.io:
     The goal is creating a '404 error' web page, with responsiveness for mobile devices.
     The results I've obtained can be seen in the screenshots below:
 
-![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Laptop_screenshot.png)
-![screenshot](https://github.com/rac15798991/404-not-found/blob/update-index.html/Responsive_screenshot.png)
-
+![screenshot](https://github.com/rac15798991/404-not-found/blob/master/Laptop_screenshot.png)
+![screenshot](https://github.com/rac15798991/404-not-found/blob/master/Responsive_screenshot.png)
 
 
 This project was all about constructing a page with html and css, working with a css media query and adjusting elements on the page. Links to useful articles can be found on section before end.
