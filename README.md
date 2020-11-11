@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>   
-    <span>404 Challenge | </span>
+    <span>404 not found | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
